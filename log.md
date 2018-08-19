@@ -15,3 +15,18 @@ solution to GitHub and almost got dragged down a rabbit hole.
 **Link(s) to work**
 1. [Palindrome Checker ](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/javascript-algorithms-and-data-structures-projects/palindrome-checker/)
 2. [Solution](https://github.com/jefferylgraham/freeCodeCamp/blob/master/javascript-algorithms-and-data-structures-projects/palindrome-checker.js)
+
+### Day 2: Sunday, August 19, 2018
+
+**Today's Progress**: I've gone through 2 projects on FreeCodeCamp - JS Algorithms
+& Data Structures. Complete Caesar's Cipher and Roman Numeral Converter
+
+**Thoughts** My code doesn't feel lean/efficient. I'll go back and look at the
+advanced solutions to get an idea of other ways to complete the tasks.
+
+**Link(s) to work**
+1. [Roman Numeral Converter](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/javascript-algorithms-and-data-structures-projects/roman-numeral-converter/)
+- [Solution](https://github.com/jefferylgraham/freeCodeCamp/blob/master/javascript-algorithms-and-data-structures-projects/romanNumerals.js)
+
+2. [Caesars Cipher](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/javascript-algorithms-and-data-structures-projects/caesars-cipher/)
+- [Solution](https://github.com/jefferylgraham/freeCodeCamp/blob/master/javascript-algorithms-and-data-structures-projects/rot13.js)
