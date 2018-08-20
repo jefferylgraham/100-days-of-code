@@ -30,3 +30,16 @@ advanced solutions to get an idea of other ways to complete the tasks.
 
 2. [Caesars Cipher](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/javascript-algorithms-and-data-structures-projects/caesars-cipher/)
 - [Solution](https://github.com/jefferylgraham/freeCodeCamp/blob/master/javascript-algorithms-and-data-structures-projects/rot13.js)
+
+### Day 3: Monday, August 20, 2018
+
+**Today's Progress**: Worked on regular expressions and lookaheads. Completed the
+Telephone Number Validator project at freeCodeCamp.
+
+**Thoughts** I hate Regexes in general. But I've learned more about them today than
+I ever have in the past. The hints from freeCodeCamp gave me good leads and using
+the online Regex tools were tremendously helpful. My regex is VERY long, but it's all mine & works!
+
+**Link(s) to work**
+1. [Telephone Number Validator](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/javascript-algorithms-and-data-structures-projects/telephone-number-validator)
+- [Solution](https://github.com/jefferylgraham/freeCodeCamp/blob/master/javascript-algorithms-and-data-structures-projects/telNumValidator.js)
