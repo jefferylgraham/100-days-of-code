@@ -28,7 +28,7 @@ advanced solutions to get an idea of other ways to complete the tasks.
 1. [Roman Numeral Converter](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/javascript-algorithms-and-data-structures-projects/roman-numeral-converter/)
 - [Solution](https://github.com/jefferylgraham/freeCodeCamp/blob/master/javascript-algorithms-and-data-structures-projects/romanNumerals.js)
 
-2. [Caesars Cipher](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/javascript-algorithms-and-data-structures-projects/caesars-cipher/)
+2. [Caesars  Cipher](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/javascript-algorithms-and-data-structures-projects/caesars-cipher/)
 - [Solution](https://github.com/jefferylgraham/freeCodeCamp/blob/master/javascript-algorithms-and-data-structures-projects/rot13.js)
 
 ### Day 3: Monday, August 20, 2018
@@ -43,3 +43,14 @@ the online Regex tools were tremendously helpful. My regex is VERY long, but it'
 **Link(s) to work**
 1. [Telephone Number Validator](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/javascript-algorithms-and-data-structures-projects/telephone-number-validator)
 - [Solution](https://github.com/jefferylgraham/freeCodeCamp/blob/master/javascript-algorithms-and-data-structures-projects/telNumValidator.js)
+
+### Day 4: Tuesday, August 21, 2018
+
+**Today's Progress**: Worked on cash register project at freeCodeCamp. Made little progress
+on a working program. 
+
+**Thoughts** I'm coding before actually writing down the steps and/or pseudocode. I just start writing code and next thing I know is I'm writing a long program and I'm not sure where the bugs are coming in. I need to sit and think about the process and write functions for parts of the program that are repetitive.
+
+**Link(s) to work**
+1. [Cash Register](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/javascript-algorithms-and-data-structures-projects/cash-register)
+-
