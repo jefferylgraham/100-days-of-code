@@ -13,6 +13,7 @@ I'm seeing that the development community is very supportive. Had a problem comm
 solution to GitHub and almost got dragged down a rabbit hole.
 
 **Link(s) to work**
+
 1. [Palindrome Checker ](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/javascript-algorithms-and-data-structures-projects/palindrome-checker/)
 2. [Solution](https://github.com/jefferylgraham/freeCodeCamp/blob/master/javascript-algorithms-and-data-structures-projects/palindrome-checker.js)
 
@@ -25,10 +26,13 @@ solution to GitHub and almost got dragged down a rabbit hole.
 advanced solutions to get an idea of other ways to complete the tasks.
 
 **Link(s) to work**
+
 1. [Roman Numeral Converter](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/javascript-algorithms-and-data-structures-projects/roman-numeral-converter/)
+
 - [Solution](https://github.com/jefferylgraham/freeCodeCamp/blob/master/javascript-algorithms-and-data-structures-projects/romanNumerals.js)
 
-2. [Caesars  Cipher](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/javascript-algorithms-and-data-structures-projects/caesars-cipher/)
+2. [Caesars Cipher](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/javascript-algorithms-and-data-structures-projects/caesars-cipher/)
+
 - [Solution](https://github.com/jefferylgraham/freeCodeCamp/blob/master/javascript-algorithms-and-data-structures-projects/rot13.js)
 
 ### Day 3: Monday, August 20, 2018
@@ -41,16 +45,32 @@ I ever have in the past. The hints from freeCodeCamp gave me good leads and usin
 the online Regex tools were tremendously helpful. My regex is VERY long, but it's all mine & works!
 
 **Link(s) to work**
+
 1. [Telephone Number Validator](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/javascript-algorithms-and-data-structures-projects/telephone-number-validator)
+
 - [Solution](https://github.com/jefferylgraham/freeCodeCamp/blob/master/javascript-algorithms-and-data-structures-projects/telNumValidator.js)
 
 ### Day 4: Tuesday, August 21, 2018
 
 **Today's Progress**: Worked on cash register project at freeCodeCamp. Made little progress
-on a working program. 
+on a working program.
 
 **Thoughts** I'm coding before actually writing down the steps and/or pseudocode. I just start writing code and next thing I know is I'm writing a long program and I'm not sure where the bugs are coming in. I need to sit and think about the process and write functions for parts of the program that are repetitive.
 
 **Link(s) to work**
+
 1. [Cash Register](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/javascript-algorithms-and-data-structures-projects/cash-register)
+
+### Day 5: Wednesday, August 22, 2018
+
+**Today's Progress**: Worked on cash register project at freeCodeCamp. Made more progress
+on a working program. Have one of the tests passing.
+
+**Thoughts** Breaking the program into functions is very helpful in keeping the track of the state of the register, as well as state of the amoount of money owed. I used "state". I must have React on the brain. But I coded way more than I realized today. That wakatime is very helpful in keeping track of how much time I'm spending on coding.
+
+**Link(s) to work**
+
+1. [Cash Register](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/javascript-algorithms-and-data-structures-projects/cash-register)
+   [Code so far](https://github.com/jefferylgraham/freeCodeCamp/blob/master/javascript-algorithms-and-data-structures-projects/cashRegister.js)
+
 -
