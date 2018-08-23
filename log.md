@@ -1,6 +1,6 @@
 # 100 Days Of Code - Log
 
-### Day 1: Saturday, August 18, 2018
+### Day 0: Saturday, August 18, 2018
 
 **Today's Progress**: I've gone through many exercises on FreeCodeCamp. I finally
 finished the Intermediate JavaScript challenges (with some help).
@@ -17,7 +17,7 @@ solution to GitHub and almost got dragged down a rabbit hole.
 1. [Palindrome Checker ](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/javascript-algorithms-and-data-structures-projects/palindrome-checker/)
 2. [Solution](https://github.com/jefferylgraham/freeCodeCamp/blob/master/javascript-algorithms-and-data-structures-projects/palindrome-checker.js)
 
-### Day 2: Sunday, August 19, 2018
+### Day 1: Sunday, August 19, 2018
 
 **Today's Progress**: I've gone through 2 projects on FreeCodeCamp - JS Algorithms
 & Data Structures. Complete Caesar's Cipher and Roman Numeral Converter
@@ -35,7 +35,7 @@ advanced solutions to get an idea of other ways to complete the tasks.
 
 - [Solution](https://github.com/jefferylgraham/freeCodeCamp/blob/master/javascript-algorithms-and-data-structures-projects/rot13.js)
 
-### Day 3: Monday, August 20, 2018
+### Day 2: Monday, August 20, 2018
 
 **Today's Progress**: Worked on regular expressions and lookaheads. Completed the
 Telephone Number Validator project at freeCodeCamp.
@@ -50,7 +50,7 @@ the online Regex tools were tremendously helpful. My regex is VERY long, but it'
 
 - [Solution](https://github.com/jefferylgraham/freeCodeCamp/blob/master/javascript-algorithms-and-data-structures-projects/telNumValidator.js)
 
-### Day 4: Tuesday, August 21, 2018
+### Day 3: Tuesday, August 21, 2018
 
 **Today's Progress**: Worked on cash register project at freeCodeCamp. Made little progress
 on a working program.
@@ -61,7 +61,7 @@ on a working program.
 
 1. [Cash Register](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/javascript-algorithms-and-data-structures-projects/cash-register)
 
-### Day 5: Wednesday, August 22, 2018
+### Day 4: Wednesday, August 22, 2018
 
 **Today's Progress**: Worked on cash register project at freeCodeCamp. Made more progress
 on a working program. Have one of the tests passing.
