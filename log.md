@@ -73,4 +73,15 @@ on a working program. Have one of the tests passing.
 1. [Cash Register](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/javascript-algorithms-and-data-structures-projects/cash-register)
    [Code so far](https://github.com/jefferylgraham/freeCodeCamp/blob/master/javascript-algorithms-and-data-structures-projects/cashRegister.js)
 
+
+### Day 5: Thursday, August 23, 2018
+
+**Today's Progress**: Worked on cash register project at freeCodeCamp. Just one tiny change & I'll be done.
+
+**Thoughts** This has taken all day! But seeing a former Airmen like myself get into coding gave me more encouragement. I need to work on debugging. Learning alot about functions & whatnot. 
+
+**Link(s) to work**
+
+1. [Cash Register](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/javascript-algorithms-and-data-structures-projects/cash-register)
+   [Code so far](https://github.com/jefferylgraham/freeCodeCamp/blob/master/javascript-algorithms-and-data-structures-projects/cashRegister.js)
 -
