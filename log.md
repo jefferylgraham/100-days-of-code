@@ -71,7 +71,8 @@ on a working program. Have one of the tests passing.
 **Link(s) to work**
 
 1. [Cash Register](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/javascript-algorithms-and-data-structures-projects/cash-register)
-   [Code so far](https://github.com/jefferylgraham/freeCodeCamp/blob/master/javascript-algorithms-and-data-structures-projects/cashRegister.js)
+   
+  * [Code so far](https://github.com/jefferylgraham/freeCodeCamp/blob/master/javascript-algorithms-and-data-structures-projects/cashRegister.js)
 
 
 ### Day 5: Thursday, August 23, 2018
@@ -83,5 +84,18 @@ on a working program. Have one of the tests passing.
 **Link(s) to work**
 
 1. [Cash Register](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/javascript-algorithms-and-data-structures-projects/cash-register)
-   [Code so far](https://github.com/jefferylgraham/freeCodeCamp/blob/master/javascript-algorithms-and-data-structures-projects/cashRegister.js)
+   
+  * [Code so far](https://github.com/jefferylgraham/freeCodeCamp/blob/master/javascript-algorithms-and-data-structures-projects/cashRegister.js)
 -
+
+### Day 6: Friday, August 24, 2018
+
+**Today's Progress**: Finished the cash register project. FINALLY! I've earned my JavaScript certification. Celebrated by working on some WordPress/PHP development.
+
+**Thoughts**: I was about to quit and go on to the next section at freeCodeCamp and come back to the project later. But I kept thinking about the problem and how to handle it step-wise. I am becoming a better coder!
+
+**Link(s) to work**
+
+1. [Cash Register](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/javascript-algorithms-and-data-structures-projects/cash-register)
+   
+ * [Solution](https://github.com/jefferylgraham/freeCodeCamp/blob/master/javascript-algorithms-and-data-structures-projects/cashRegister.js)
