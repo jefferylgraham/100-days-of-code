@@ -105,3 +105,16 @@ on a working program. Have one of the tests passing.
 **Today's Progress**: Went through some of the front end library challenges at [freeCodeCamp](https://www.freecodecamp.org/).
 
 **Thoughts**: Gaining a newfound respect for CSS and feeling more comfortable with the design aspect of web development.
+
+### Day 8: Sunday, August 26, 2018
+
+**Today's Progress**: FInished the front end library challenges at [freeCodeCamp](https://www.freecodecamp.org/). Started the random quote generator project using React
+
+**Thoughts**: Actually drew out the design before starting to write stuff down. Having an idea of what
+the project will look like is helpful, especially if building with React. Draw stuff out to know exactly what "components\* will look like & go. Need to study wireframing.
+
+**Link(s) to work**
+
+1. [Random Quote Generator Instructions/User Stories](https://learn.freecodecamp.org/front-end-libraries/front-end-libraries-projects/build-a-random-quote-machine)
+
+   -[Work so far](https://github.com/jefferylgraham/freeCodeCamp/tree/master/front-end-libraries/random-quote-generator)
