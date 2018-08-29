@@ -118,3 +118,23 @@ the project will look like is helpful, especially if building with React. Draw s
 1. [Random Quote Generator Instructions/User Stories](https://learn.freecodecamp.org/front-end-libraries/front-end-libraries-projects/build-a-random-quote-machine)
 
    -[Work so far](https://github.com/jefferylgraham/freeCodeCamp/tree/master/front-end-libraries/random-quote-generator)
+
+### Day 9: Monday, August 26, 2018
+
+**Today's Progress**: Finished the random quote machine at [freeCodeCamp](https://www.freecodecamp.org/).
+
+**Thoughts**: It felt good to build my first React app w/o a tutorial. Actually felt like I knew what I was doing. Code feels lean. Still need more practice, but I'm getting more comfortable with React. Instituting the pomodoro technique is helpful.
+
+**Link(s) to work**
+
+1. [Random Quote Generator Instructions/User Stories](https://learn.freecodecamp.org/front-end-libraries/front-end-libraries-projects/build-a-random-quote-machine)
+
+   -[Solution](https://codepen.io/jlg992/pen/bxpGvV)
+
+### Day 10: Tuesday, August 27, 2018
+
+**Today's Progress**: Switched gears and did some PHP.
+
+**Thoughts**: A little bit of Imposter Syndrome crept up today. Doubted my ability to build the Markdown Preview project. But I KNOW I can do it.
+
+
