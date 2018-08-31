@@ -146,3 +146,14 @@ the project will look like is helpful, especially if building with React. Draw s
 1. [Markdown Previewe Instructions/User Stories](https://learn.freecodecamp.org/front-end-libraries/front-end-libraries-projects/build-a-markdown-previewer)
 
    -[Work so far](https://github.com/jefferylgraham/freeCodeCamp/tree/master/front-end-libraries/markdown-previewer)
+
+
+### Day 12: Thursday, August 29, 2018
+
+**Today's Progress**: Worked on the markdown preview project. Read some of [Practical Modern JavaScript](https://ponyfoo.com/books/practical-modern-javascript) by Nicolas Bevaqua.
+
+**Thoughts**: Didn't make as much progress as I wanted. Ended up refactoring out the buttons. It'll make it easier I think to add functions to them. Need to learn how to pass props to nested components.
+
+1. [Markdown Previewe Instructions/User Stories](https://learn.freecodecamp.org/front-end-libraries/front-end-libraries-projects/build-a-markdown-previewer)
+
+   -[Work so far](https://github.com/jefferylgraham/freeCodeCamp/tree/master/front-end-libraries/markdown-previewer)
