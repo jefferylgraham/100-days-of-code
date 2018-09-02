@@ -168,3 +168,13 @@ the project will look like is helpful, especially if building with React. Draw s
 1. [Markdown Previewe Instructions/User Stories](https://learn.freecodecamp.org/front-end-libraries/front-end-libraries-projects/build-a-markdown-previewer)
 
    -[Work so far](https://github.com/jefferylgraham/freeCodeCamp/tree/master/front-end-libraries/markdown-previewer)
+
+### Day 14: Saturday, September 1, 2018
+
+**Today's Progress**: Worked on the markdown preview project some more. Made more progress today than during the last three days combined.
+
+**Thoughts**: Sat down this morning and thought out the logic of the project. Thinking about it and thinnking through how & when the components render was very helpful. Once I thought through how everything worked and interacted, coding a solution became easier. Just need to figure out the parsing into Markdown.
+
+1. [Markdown Previewe Instructions/User Stories](https://learn.freecodecamp.org/front-end-libraries/front-end-libraries-projects/build-a-markdown-previewer)
+
+   -[Work so far](https://github.com/jefferylgraham/freeCodeCamp/tree/master/front-end-libraries/markdown-previewer)
