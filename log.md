@@ -178,3 +178,14 @@ the project will look like is helpful, especially if building with React. Draw s
 1. [Markdown Previewe Instructions/User Stories](https://learn.freecodecamp.org/front-end-libraries/front-end-libraries-projects/build-a-markdown-previewer)
 
    -[Work so far](https://github.com/jefferylgraham/freeCodeCamp/tree/master/front-end-libraries/markdown-previewer)
+
+
+### Day 15: Sunday, September 2, 2018
+
+**Today's Progress**: Finished the functionality of the markdown preview project. Just need to work on styling now. 
+
+**Thoughts**: dangerouslySteInnerHTML is thr scariest property I've ever heard of. I like FCC because I always learn something new when completing a project.
+
+1. [Markdown Previewe Instructions/User Stories](https://learn.freecodecamp.org/front-end-libraries/front-end-libraries-projects/build-a-markdown-previewer)
+
+   -[Work so far](https://github.com/jefferylgraham/freeCodeCamp/tree/master/front-end-libraries/markdown-previewer)
