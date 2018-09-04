@@ -200,3 +200,14 @@ the project will look like is helpful, especially if building with React. Draw s
 1. [Markdown Previewe Instructions/User Stories](https://learn.freecodecamp.org/front-end-libraries/front-end-libraries-projects/build-a-markdown-previewer)
 
    -[Work so far](https://github.com/jefferylgraham/freeCodeCamp/tree/master/front-end-libraries/markdown-previewer)
+
+
+### Day 17: Tuesday, September 4, 2018
+
+**Today's Progress**: Finished the markdown previewer project!
+
+**Thoughts**: After passing the mandatory tests, I wasn't going to tackle the bonus tests. I was going to move onto the drum machine and come back to the bonus tests *later*. But I knew the likelihood of me actually revisiting the tests were slim to none. So I decided to hold off the drum machine project until I solved the bonus tests. Turns out that after some research into the [markedjs](https://marked.js.org/#/USING_ADVANCED.md) documentation, it wasn't as daunting as I thought it'd be.
+
+1. [Markdown Previewe Instructions/User Stories](https://learn.freecodecamp.org/front-end-libraries/front-end-libraries-projects/build-a-markdown-previewer)
+
+   -[Solution](https://github.com/jefferylgraham/freeCodeCamp/tree/master/front-end-libraries/markdown-previewer)
