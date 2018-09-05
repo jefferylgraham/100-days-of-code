@@ -143,10 +143,9 @@ the project will look like is helpful, especially if building with React. Draw s
 
 **Thoughts**: I'm sure I can build the markdown previewer. But I want to have a strong foundational knowledge of JavaScript. Component building is helpful. Breaking the project into smaller steps helps troubleshooting and coming to an overall solution.
 
-1. [Markdown Previewe Instructions/User Stories](https://learn.freecodecamp.org/front-end-libraries/front-end-libraries-projects/build-a-markdown-previewer)
+1. [Markdown Previewer Instructions/User Stories](https://learn.freecodecamp.org/front-end-libraries/front-end-libraries-projects/build-a-markdown-previewer)
 
    -[Work so far](https://github.com/jefferylgraham/freeCodeCamp/tree/master/front-end-libraries/markdown-previewer)
-
 
 ### Day 12: Thursday, August 30, 2018
 
@@ -154,18 +153,17 @@ the project will look like is helpful, especially if building with React. Draw s
 
 **Thoughts**: Didn't make as much progress as I wanted. Ended up refactoring out the buttons. It'll make it easier I think to add functions to them. Need to learn how to pass props to nested components.
 
-1. [Markdown Previewe Instructions/User Stories](https://learn.freecodecamp.org/front-end-libraries/front-end-libraries-projects/build-a-markdown-previewer)
+1. [Markdown Previewer Instructions/User Stories](https://learn.freecodecamp.org/front-end-libraries/front-end-libraries-projects/build-a-markdown-previewer)
 
    -[Work so far](https://github.com/jefferylgraham/freeCodeCamp/tree/master/front-end-libraries/markdown-previewer)
-
 
 ### Day 13: Friday, August 31, 2018
 
 **Today's Progress**: Worked on the markdown preview project. Looked at some of JavaScript video by [Beau Carnes](https://medium.freecodecamp.org/@beaucarnes)
 
-**Thoughts**: I keep starting the project over because I'm not taking the time to think out the logic of the project. Need to *think* about what components make up the project, and how they relate and *React*.
+**Thoughts**: I keep starting the project over because I'm not taking the time to think out the logic of the project. Need to _think_ about what components make up the project, and how they relate and _React_.
 
-1. [Markdown Previewe Instructions/User Stories](https://learn.freecodecamp.org/front-end-libraries/front-end-libraries-projects/build-a-markdown-previewer)
+1. [Markdown Previewer Instructions/User Stories](https://learn.freecodecamp.org/front-end-libraries/front-end-libraries-projects/build-a-markdown-previewer)
 
    -[Work so far](https://github.com/jefferylgraham/freeCodeCamp/tree/master/front-end-libraries/markdown-previewer)
 
@@ -175,21 +173,19 @@ the project will look like is helpful, especially if building with React. Draw s
 
 **Thoughts**: Sat down this morning and thought out the logic of the project. Thinking about it and thinnking through how & when the components render was very helpful. Once I thought through how everything worked and interacted, coding a solution became easier. Just need to figure out the parsing into Markdown.
 
-1. [Markdown Previewe Instructions/User Stories](https://learn.freecodecamp.org/front-end-libraries/front-end-libraries-projects/build-a-markdown-previewer)
+1. [Markdown Previewer Instructions/User Stories](https://learn.freecodecamp.org/front-end-libraries/front-end-libraries-projects/build-a-markdown-previewer)
 
    -[Work so far](https://github.com/jefferylgraham/freeCodeCamp/tree/master/front-end-libraries/markdown-previewer)
-
 
 ### Day 15: Sunday, September 2, 2018
 
-**Today's Progress**: Finished the functionality of the markdown preview project. Just need to work on styling now. 
+**Today's Progress**: Finished the functionality of the markdown preview project. Just need to work on styling now.
 
 **Thoughts**: dangerouslySteInnerHTML is thr scariest property I've ever heard of. I like FCC because I always learn something new when completing a project.
 
-1. [Markdown Previewe Instructions/User Stories](https://learn.freecodecamp.org/front-end-libraries/front-end-libraries-projects/build-a-markdown-previewer)
+1. [Markdown Previewer Instructions/User Stories](https://learn.freecodecamp.org/front-end-libraries/front-end-libraries-projects/build-a-markdown-previewer)
 
    -[Work so far](https://github.com/jefferylgraham/freeCodeCamp/tree/master/front-end-libraries/markdown-previewer)
-
 
 ### Day 16: Monday, September 3, 2018
 
@@ -197,17 +193,26 @@ the project will look like is helpful, especially if building with React. Draw s
 
 **Thoughts**: Didn't put in an hour yesterday, but I did get something done. I could have already submitted but I care about how my project looks. I want to be good at this.
 
-1. [Markdown Previewe Instructions/User Stories](https://learn.freecodecamp.org/front-end-libraries/front-end-libraries-projects/build-a-markdown-previewer)
+1. [Markdown Previewer Instructions/User Stories](https://learn.freecodecamp.org/front-end-libraries/front-end-libraries-projects/build-a-markdown-previewer)
 
    -[Work so far](https://github.com/jefferylgraham/freeCodeCamp/tree/master/front-end-libraries/markdown-previewer)
-
 
 ### Day 17: Tuesday, September 4, 2018
 
 **Today's Progress**: Finished the markdown previewer project!
 
-**Thoughts**: After passing the mandatory tests, I wasn't going to tackle the bonus tests. I was going to move onto the drum machine and come back to the bonus tests *later*. But I knew the likelihood of me actually revisiting the tests were slim to none. So I decided to hold off the drum machine project until I solved the bonus tests. Turns out that after some research into the [markedjs](https://marked.js.org/#/USING_ADVANCED.md) documentation, it wasn't as daunting as I thought it'd be.
+**Thoughts**: After passing the mandatory tests, I wasn't going to tackle the bonus tests. I was going to move onto the drum machine and come back to the bonus tests _later_. But I knew the likelihood of me actually revisiting the tests were slim to none. So I decided to hold off the drum machine project until I solved the bonus tests. Turns out that after some research into the [markedjs](https://marked.js.org/#/USING_ADVANCED.md) documentation, it wasn't as daunting as I thought it'd be.
 
-1. [Markdown Previewe Instructions/User Stories](https://learn.freecodecamp.org/front-end-libraries/front-end-libraries-projects/build-a-markdown-previewer)
+1. [Markdown Previewer Instructions/User Stories](https://learn.freecodecamp.org/front-end-libraries/front-end-libraries-projects/build-a-markdown-previewer)
 
    -[Solution](https://github.com/jefferylgraham/freeCodeCamp/tree/master/front-end-libraries/markdown-previewer)
+
+### Day 18: Wednesday, September 5, 2018
+
+**Today's Progress**: Started the drum machine project
+
+**Thoughts**: I haven't run into any major challenges yet which makes me believe I'm probably doing something wrong.
+
+1. [Drum Machine Instructions/User Stories](https://learn.freecodecamp.org/front-end-libraries/front-end-libraries-projects/build-a-drum-machine)
+
+   -[Work so far](https://github.com/jefferylgraham/freeCodeCamp/tree/master/front-end-libraries/drum-machine)
