@@ -216,3 +216,13 @@ the project will look like is helpful, especially if building with React. Draw s
 1. [Drum Machine Instructions/User Stories](https://learn.freecodecamp.org/front-end-libraries/front-end-libraries-projects/build-a-drum-machine)
 
    -[Work so far](https://github.com/jefferylgraham/freeCodeCamp/tree/master/front-end-libraries/drum-machine)
+
+### Day 19: Thursday, September 6, 2018
+
+**Today's Progress**: Worked on the drum machine project. Have all drum pads playing a sound when pressed.
+
+**Thoughts**: Still need to work on the key press event handling. Have to think it through and not try to rush to a solution. My code looks more streamlined than it did yesterday. I was excited about building out the drum pads and setting their props/attributes dynamically
+
+1. [Drum Machine Instructions/User Stories](https://learn.freecodecamp.org/front-end-libraries/front-end-libraries-projects/build-a-drum-machine)
+
+   -[Work so far](https://github.com/jefferylgraham/freeCodeCamp/tree/master/front-end-libraries/drum-machine)
