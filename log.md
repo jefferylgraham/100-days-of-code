@@ -226,3 +226,15 @@ the project will look like is helpful, especially if building with React. Draw s
 1. [Drum Machine Instructions/User Stories](https://learn.freecodecamp.org/front-end-libraries/front-end-libraries-projects/build-a-drum-machine)
 
    -[Work so far](https://github.com/jefferylgraham/freeCodeCamp/tree/master/front-end-libraries/drum-machine)
+
+### Day 20: Friday, September 7, 2018
+
+**Today's Progress**: Finished the drum machine project. Have all drum pads playing a sound when pressed or when the corresponding key on the keyboard is pressed
+
+**Thoughts**: Some of the tests on the FCC didn't go through even though the functionality is in my app. The same goes for the example FCC posted. Have to investigate to see if it's a bug or not
+
+1. [Drum Machine Instructions/User Stories](https://learn.freecodecamp.org/front-end-libraries/front-end-libraries-projects/build-a-drum-machine)
+
+   -[Solution](https://jefferylgraham.github.io/drum-machine/)
+
+
