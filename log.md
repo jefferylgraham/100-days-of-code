@@ -237,4 +237,14 @@ the project will look like is helpful, especially if building with React. Draw s
 
    -[Solution](https://jefferylgraham.github.io/drum-machine/)
 
+### Day 21: Saturday, September 8, 2018
+
+**Today's Progress**: Started the calculator project. Built out the design for the calculator.
+
+**Thoughts**: Used CSS grid, instead of BootStrap. Felt good to use the grid-template-area shortcut instead of defining thr full grid. I have a feeling this project is going to be a beast.
+
+1. [JavaScript Calculator Instructions/User Stories](https://learn.freecodecamp.org/front-end-libraries/front-end-libraries-projects/build-a-javascript-calculator/)
+
+   -[Work so far](https://github.com/jefferylgraham/freeCodeCamp/tree/master/front-end-libraries/js-calculator)
+
 
