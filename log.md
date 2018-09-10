@@ -247,4 +247,22 @@ the project will look like is helpful, especially if building with React. Draw s
 
    -[Work so far](https://github.com/jefferylgraham/freeCodeCamp/tree/master/front-end-libraries/js-calculator)
 
+### Day 22: Sunday, September 9, 2018
+
+**Today's Progress**: Worked on php with Kevin Skoglund. Started the full stack web development course by Stephen ~ [Web Developer Buddy](https://webdevbuddy.azurewebsites.net/Courses).
+
+**Thoughts**: I am a capable web developer. I want to be a good one. I have to get into the practice of commenting my code.
+
+### Day 23: Monday, September 10, 2018
+
+**Today's Progress**: Switched back to working on the javascript calculator. Have the design down and the click functions. Just have to work on how to handle calculations.
+
+**Thoughts**: My imposter syndrome got the better of me today and yesterday. I realize that my lack of focus is attributable to me lacking confidence in my abilities. I have to remind myself, although I have more to learn, I *DO* know a lot already and am capable of learning more.
+
+1. [JavaScript Calculator Instructions/User Stories](https://learn.freecodecamp.org/front-end-libraries/front-end-libraries-projects/build-a-javascript-calculator/)
+
+   -[Work so far](https://jefferylgraham.github.io/javascript-calculator/)
+
+
+
 
