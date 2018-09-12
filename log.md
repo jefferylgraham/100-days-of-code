@@ -263,6 +263,16 @@ the project will look like is helpful, especially if building with React. Draw s
 
    -[Work so far](https://jefferylgraham.github.io/javascript-calculator/)
 
+### Day 24: Tuesday, September 11, 2018
+
+**Today's Progress**: Worked on the javascript calculator. Moved some decisions out of the functions and into the button components.
+
+**Thoughts**: I need to sit down with some pen & paper and work through how a calculator works to get a better idea of how to tackle this project.
+
+1. [JavaScript Calculator Instructions/User Stories](https://learn.freecodecamp.org/front-end-libraries/front-end-libraries-projects/build-a-javascript-calculator/)
+
+   -[Work so far](https://jefferylgraham.github.io/javascript-calculator/)
+
 
 
 
