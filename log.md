@@ -273,6 +273,14 @@ the project will look like is helpful, especially if building with React. Draw s
 
    -[Work so far](https://jefferylgraham.github.io/javascript-calculator/)
 
+### Day 25: Wednesday, September 12, 2018
+
+**Today's Progress**: Worked on styling some old projects. Also did some WordPress theme development.
+
+**Thoughts**: Realized that I need to redesign my project to be fully-responsive.
+
+
+
 
 
 
