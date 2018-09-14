@@ -257,7 +257,7 @@ the project will look like is helpful, especially if building with React. Draw s
 
 **Today's Progress**: Switched back to working on the javascript calculator. Have the design down and the click functions. Just have to work on how to handle calculations.
 
-**Thoughts**: My imposter syndrome got the better of me today and yesterday. I realize that my lack of focus is attributable to me lacking confidence in my abilities. I have to remind myself, although I have more to learn, I *DO* know a lot already and am capable of learning more.
+**Thoughts**: My imposter syndrome got the better of me today and yesterday. I realize that my lack of focus is attributable to me lacking confidence in my abilities. I have to remind myself, although I have more to learn, I _DO_ know a lot already and am capable of learning more.
 
 1. [JavaScript Calculator Instructions/User Stories](https://learn.freecodecamp.org/front-end-libraries/front-end-libraries-projects/build-a-javascript-calculator/)
 
@@ -279,8 +279,12 @@ the project will look like is helpful, especially if building with React. Draw s
 
 **Thoughts**: Realized that I need to redesign my project to be fully-responsive.
 
+### Day 26: Thursday, September 13, 2018
 
+**Today's Progress**: Worked on freeCodeCamp JavaScript Calculator. Passing 11/16 tests
 
+**Thoughts**: Today was frustrating & exhilarating. Frustrated because fixing my project to pass one test would cause it to fail tests that it previously passed. It was exhilarating because after much consternation I finally got to a place where "fixing" something didn't cause something else to break. There was a lot of sitting, sketching and meditating, but in the end I worked it out.
 
+1. [JavaScript Calculator Instructions/User Stories](https://learn.freecodecamp.org/front-end-libraries/front-end-libraries-projects/build-a-javascript-calculator/)
 
-
+   -[Work so far](https://codepen.io/jlg992/pen/WgyYRj)
