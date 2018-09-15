@@ -288,3 +288,11 @@ the project will look like is helpful, especially if building with React. Draw s
 1. [JavaScript Calculator Instructions/User Stories](https://learn.freecodecamp.org/front-end-libraries/front-end-libraries-projects/build-a-javascript-calculator/)
 
    -[Work so far](https://codepen.io/jlg992/pen/WgyYRj)
+
+### Day 27: Friday, September 14, 2018
+
+**Today's Progress**: Spent the day building my github page and revamping old FCC projects
+
+**Thoughts**: Layouts, i.e. bootstrap, grid, flexbox, are cool! Implementing them into existing code, not so much.
+
+1. [Github Page](https://jefferylgraham.github.io)
