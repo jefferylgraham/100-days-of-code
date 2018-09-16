@@ -296,3 +296,13 @@ the project will look like is helpful, especially if building with React. Draw s
 **Thoughts**: Layouts, i.e. bootstrap, grid, flexbox, are cool! Implementing them into existing code, not so much.
 
 1. [Github Page](https://jefferylgraham.github.io)
+
+### Day 26: Saturday, September 13, 2018
+
+**Today's Progress**: Finished the freeCodeCamp JavaScript Calculator! Passing 11/16 tests
+
+**Thoughts**: It's not perfect, but done is better than perfect. I need to follow my own advice and think things out before starting to code. Some of it feels like spaghetti code. I'll go back and fix it, but for now I press on.
+
+1. [JavaScript Calculator Instructions/User Stories](https://learn.freecodecamp.org/front-end-libraries/front-end-libraries-projects/build-a-javascript-calculator/)
+
+   -[Work so far](https://codepen.io/jlg992/pen/WgyYRj)
