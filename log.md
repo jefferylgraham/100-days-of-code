@@ -297,7 +297,7 @@ the project will look like is helpful, especially if building with React. Draw s
 
 1. [Github Page](https://jefferylgraham.github.io)
 
-### Day 26: Saturday, September 13, 2018
+### Day 28: Saturday, September 15, 2018
 
 **Today's Progress**: Finished the freeCodeCamp JavaScript Calculator! Passing 11/16 tests
 
@@ -306,3 +306,21 @@ the project will look like is helpful, especially if building with React. Draw s
 1. [JavaScript Calculator Instructions/User Stories](https://learn.freecodecamp.org/front-end-libraries/front-end-libraries-projects/build-a-javascript-calculator/)
 
    -[Work so far](https://codepen.io/jlg992/pen/WgyYRj)
+
+### Day 29: Sunday, September 16, 2018
+
+**Today's Progress**: Spent the day updating my previous FCC projects and add them to my Github profile. Tomorrow I starte on the Pomodoro Clock project
+
+**Thoughts**: I'm going to sit down and plan out _on paper_ how I want the project to work. Hopefully planning will reduce the difficulties.
+
+1. [Github Page](https://jefferylgraham.github.io)
+
+### Day 30: Monday, September 17, 2018
+
+**Today's Progress**: Started the pomodoro clock project. Mapped out the different components and how they're connected with a pen & paper before starting coding. Hopefully, this will minimize the difficulties. Also, did some update to my [Github Portfolio](https://jefferylgraham.github.io/).
+
+**Thoughts**: Month straight of coding! I'm proud of my accomplishment so far and I can see I'm getting better. Will continue to press on...
+
+1. [Pomodoro Clock Instructions/User Stories](https://learn.freecodecamp.org/front-end-libraries/front-end-libraries-projects/build-a-pomodoro-clock)
+
+   -[Work so far](https://github.com/jefferylgraham/freeCodeCamp/tree/master/front-end-libraries/pomodoro-clock)
