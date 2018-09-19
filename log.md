@@ -317,9 +317,19 @@ the project will look like is helpful, especially if building with React. Draw s
 
 ### Day 30: Monday, September 17, 2018
 
-**Today's Progress**: Started the pomodoro clock project. Mapped out the different components and how they're connected with a pen & paper before starting coding. Hopefully, this will minimize the difficulties. Also, did some update to my [Github Portfolio](https://jefferylgraham.github.io/).
+**Today's Progress**: Started the pomodoro clock project. Mapped out the different components and how they're connected with a pen & paper before starting coding. Hopefully, this will minimize the difficulties. Also, did some updateS to my [Github Portfolio](https://jefferylgraham.github.io/).
 
 **Thoughts**: Month straight of coding! I'm proud of my accomplishment so far and I can see I'm getting better. Will continue to press on...
+
+1. [Pomodoro Clock Instructions/User Stories](https://learn.freecodecamp.org/front-end-libraries/front-end-libraries-projects/build-a-pomodoro-clock)
+
+   -[Work so far](https://github.com/jefferylgraham/freeCodeCamp/tree/master/front-end-libraries/pomodoro-clock)
+
+### Day 31: Tuesday, September 18, 2018
+
+**Today's Progress**: Worked out all the components to my freeCodeCamp Pomodoro Timer. Also, started developing my own WordPress theme.
+
+**Thoughts**: Today, it dawned on me that React components "*react*" to something. Knowing that helps me figure out how state should be defined.
 
 1. [Pomodoro Clock Instructions/User Stories](https://learn.freecodecamp.org/front-end-libraries/front-end-libraries-projects/build-a-pomodoro-clock)
 
