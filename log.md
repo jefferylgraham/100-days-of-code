@@ -334,3 +334,13 @@ the project will look like is helpful, especially if building with React. Draw s
 1. [Pomodoro Clock Instructions/User Stories](https://learn.freecodecamp.org/front-end-libraries/front-end-libraries-projects/build-a-pomodoro-clock)
 
    -[Work so far](https://github.com/jefferylgraham/freeCodeCamp/tree/master/front-end-libraries/pomodoro-clock)
+
+### Day 32: Wednesday, September 19, 2018
+
+**Today's Progress**: Worked on the button functionality for the #freeCodeCamp pomodoro clock today.
+
+**Thoughts**: Going slow & methodical. Checking functionality frequently and working on one piece at a time. All that's left is to implement the most important part of a timer...the actual timer!
+
+1. [Pomodoro Clock Instructions/User Stories](https://learn.freecodecamp.org/front-end-libraries/front-end-libraries-projects/build-a-pomodoro-clock)
+
+   -[Work so far](https://github.com/jefferylgraham/freeCodeCamp/tree/master/front-end-libraries/pomodoro-clock)
