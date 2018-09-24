@@ -372,3 +372,13 @@ the project will look like is helpful, especially if building with React. Draw s
 **Today's Progress**: Worked on changing the ids on my freeCodeCamp pomodoro clock to get it to pass all the tests. Build an app with gatsbyjs and practiced PHP for WordPress on treehouse.
 
 **Thoughts**: Today was a *chill* coding today. Not much productivity.
+
+### Day 36: Sunday, September 23, 2018
+
+**Today's Progress**: Worked on some WordPress Development/PHP. Worked on my freeCodeCamp Pomodoro app.
+
+**Thoughts**: The pomodoro clock is functional, but still not passing all the test. I'll look at it again tomorrow, then possibly reach out to freeCodeCamp for some help.
+
+1. [Pomodoro Clock Instructions/User Stories](https://learn.freecodecamp.org/front-end-libraries/front-end-libraries-projects/build-a-pomodoro-clock)
+
+   -[Work so far](https://github.com/jefferylgraham/freeCodeCamp/tree/master/front-end-libraries/pomodoro-clock)
