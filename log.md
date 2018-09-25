@@ -382,3 +382,15 @@ the project will look like is helpful, especially if building with React. Draw s
 1. [Pomodoro Clock Instructions/User Stories](https://learn.freecodecamp.org/front-end-libraries/front-end-libraries-projects/build-a-pomodoro-clock)
 
    -[Work so far](https://github.com/jefferylgraham/freeCodeCamp/tree/master/front-end-libraries/pomodoro-clock)
+
+
+### Day 37: Monday, September 24, 2018
+
+**Today's Progress**: After much research & angst, I found out that my pomodoro clock cannot be validated by the freeCodeCamp test suites due to the way I built. It's fully functional. It just won't pass the tests. I'll go back an change my code so that it is compatible with their test suites. Just not now. Now I press on.
+
+**Thoughts**: It's cool that I can use my own pomodoro timer to track my time.
+
+1. [Pomodoro Clock Instructions/User Stories](https://learn.freecodecamp.org/front-end-libraries/front-end-libraries-projects/build-a-pomodoro-clock)
+
+   -[My Code](https://github.com/jefferylgraham/freeCodeCamp/tree/master/front-end-libraries/pomodoro-clock)
+   -[Live Site](https://jefferylgraham.github.io/pomodoro-clock/)
