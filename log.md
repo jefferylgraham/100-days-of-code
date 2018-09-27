@@ -394,3 +394,18 @@ the project will look like is helpful, especially if building with React. Draw s
 
    -[My Code](https://github.com/jefferylgraham/freeCodeCamp/tree/master/front-end-libraries/pomodoro-clock)
    -[Live Site](https://jefferylgraham.github.io/pomodoro-clock/)
+
+
+### Day 37: Tuesday, September 25, 2018
+
+**Today's Progress**: I finished the data visualization challenges at freeCodeCamp. I also started a course on Data Visualizations w/ D3 on Lynda.com by Ray Villalobos.
+
+**Thoughts**: I'm amazed at how versatile JavaScript is and the variety of libraries built with it.
+
+
+### Day 38: Wednesday, September 26, 2018
+
+**Today's Progress**: Did some more Data Visualizations w/ D3 on Lynda.com by Ray Villalobos.
+
+**Thoughts**: I need to start tackling the data visualization projects.
+
