@@ -409,3 +409,10 @@ the project will look like is helpful, especially if building with React. Draw s
 
 **Thoughts**: I need to start tackling the data visualization projects.
 
+
+### Day 39: Thursday, September 27, 2018
+
+**Today's Progress**: Finished Data Visualizations w/ D3 on Lynda.com by Ray Villalobos.
+
+**Thoughts**: I'm ready to tackle the freeCodeCamp data visualization projects.
+
