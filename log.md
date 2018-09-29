@@ -416,3 +416,14 @@ the project will look like is helpful, especially if building with React. Draw s
 
 **Thoughts**: I'm ready to tackle the freeCodeCamp data visualization projects.
 
+
+### Day 40: Friday, September 28, 2018
+
+**Today's Progress**: Started the freeCodeCamp data visualization projects. So far, so good
+
+**Thoughts**: The data visualization/bar chart project seems pretty straightforward so far.
+
+1. [Bar Chart Instructions/User Stories](https://learn.freecodecamp.org/data-visualization/data-visualization-projects/visualize-data-with-a-bar-chart/)
+
+   -[Work so far](https://github.com/jefferylgraham/freeCodeCamp/tree/master/data-visualizations/bar-chart)
+
