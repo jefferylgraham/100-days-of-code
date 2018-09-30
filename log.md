@@ -427,3 +427,18 @@ the project will look like is helpful, especially if building with React. Draw s
 
    -[Work so far](https://github.com/jefferylgraham/freeCodeCamp/tree/master/data-visualizations/bar-chart)
 
+
+### Day 41: Saturday, September 29, 2018
+
+**Today's Progress**: Finished the first freeCodeCamp data viz project. Working on the scatterplot project now.
+
+**Thoughts**: Working with time formats is frustrating.
+
+1. [Bar Chart Instructions/User Stories](https://learn.freecodecamp.org/data-visualization/data-visualization-projects/visualize-data-with-a-bar-chart/)
+
+   -[Solution](https://codepen.io/jefferylgraham/pen/zmxEeY)
+
+2. [Scatterplot Graph Instructions/User Stories](https://learn.freecodecamp.org/data-visualization/data-visualization-projects/visualize-data-with-a-scatterplot-graph/)
+
+   -[Work so far](https://github.com/jefferylgraham/freeCodeCamp/tree/master/data-visualizations/scatterplot-graph)
+
