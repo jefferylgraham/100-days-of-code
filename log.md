@@ -442,3 +442,14 @@ the project will look like is helpful, especially if building with React. Draw s
 
    -[Work so far](https://github.com/jefferylgraham/freeCodeCamp/tree/master/data-visualizations/scatterplot-graph)
 
+
+### Day 42: Sunday, September 30, 2018
+
+**Today's Progress**: Finished the freeCodeCamp scatterplot project.
+
+**Thoughts**: Putting a legend on the chart was killing me. Need more practice with that.
+
+1. [Scatterplot Graph Instructions/User Stories](https://learn.freecodecamp.org/data-visualization/data-visualization-projects/visualize-data-with-a-scatterplot-graph/)
+
+   -[Solution](https://github.com/jefferylgraham/freeCodeCamp/tree/master/data-visualizations/scatterplot-graph)
+
