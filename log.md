@@ -453,3 +453,14 @@ the project will look like is helpful, especially if building with React. Draw s
 
    -[Solution](https://github.com/jefferylgraham/freeCodeCamp/tree/master/data-visualizations/scatterplot-graph)
 
+
+### Day 43: Monday, October 1, 2018
+
+**Today's Progress**: Started the freeCodeCamp heatmap project.
+
+**Thoughts**: I put my hour in, but it felt forced & unproductive.
+
+1. [Heatmap Instructions/User Stories](https://learn.freecodecamp.org/data-visualization/data-visualization-projects/visualize-data-with-a-heat-map)
+
+   -[Work so far](https://github.com/jefferylgraham/freeCodeCamp/tree/master/data-visualizations/heat-map)
+
