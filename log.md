@@ -464,3 +464,14 @@ the project will look like is helpful, especially if building with React. Draw s
 
    -[Work so far](https://github.com/jefferylgraham/freeCodeCamp/tree/master/data-visualizations/heat-map)
 
+
+### Day 44: Tuesday, October 2, 2018
+
+**Today's Progress**: Displayed the x & y axis for the freeCodeCamp heatmap project.
+
+**Thoughts**: The first 2 projects put me into a false sense of security. Need to find documentation on how to display the actual cells of the heat map and color them.
+
+1. [Heatmap Instructions/User Stories](https://learn.freecodecamp.org/data-visualization/data-visualization-projects/visualize-data-with-a-heat-map)
+
+   -[Work so far](https://github.com/jefferylgraham/freeCodeCamp/tree/master/data-visualizations/heat-map)
+
