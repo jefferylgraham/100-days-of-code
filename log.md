@@ -475,3 +475,13 @@ the project will look like is helpful, especially if building with React. Draw s
 
    -[Work so far](https://github.com/jefferylgraham/freeCodeCamp/tree/master/data-visualizations/heat-map)
 
+
+### Day 45: Wednesday, October 3, 2018
+
+**Today's Progress**: Finished the freeCodeCamp heatmap project.
+
+**Thoughts**: Builing a legend from the color took me an hour and a half. Hopefully this stuff will start to sink in.
+
+1. [Heatmap Instructions/User Stories](https://learn.freecodecamp.org/data-visualization/data-visualization-projects/visualize-data-with-a-heat-map)
+
+   -[Solution](https://codepen.io/jefferylgraham/pen/VEepWy)
