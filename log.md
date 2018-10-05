@@ -491,7 +491,7 @@ the project will look like is helpful, especially if building with React. Draw s
 
 **Today's Progress**: Started the freeCodeCamp chloropleth map project.
 
-**Thoughts**: Builing a legend from the color took me an hour and a half. Hopefully this stuff will start to sink in.
+**Thoughts**: Getting the map drawn has been easier than getting the heat map drawn. Finding out how to actually draw took a while though. And I'm guessing that getting the data via tooltip might be a bit daunting, but I'm up for the challenge.
 
 1. [Choropleth Map Instructions/User Stories](https://learn.freecodecamp.org/data-visualization/data-visualization-projects/visualize-data-with-a-choropleth-map)
 
