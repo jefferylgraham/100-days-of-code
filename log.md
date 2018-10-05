@@ -485,3 +485,14 @@ the project will look like is helpful, especially if building with React. Draw s
 1. [Heatmap Instructions/User Stories](https://learn.freecodecamp.org/data-visualization/data-visualization-projects/visualize-data-with-a-heat-map)
 
    -[Solution](https://codepen.io/jefferylgraham/pen/VEepWy)
+
+
+### Day 46: Thursday, October 4, 2018
+
+**Today's Progress**: Started the freeCodeCamp chloropleth map project.
+
+**Thoughts**: Builing a legend from the color took me an hour and a half. Hopefully this stuff will start to sink in.
+
+1. [Choropleth Map Instructions/User Stories](https://learn.freecodecamp.org/data-visualization/data-visualization-projects/visualize-data-with-a-choropleth-map)
+
+   -[Work so far](https://github.com/jefferylgraham/freeCodeCamp/tree/master/data-visualizations/chloropleth-map)
