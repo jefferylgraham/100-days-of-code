@@ -496,3 +496,14 @@ the project will look like is helpful, especially if building with React. Draw s
 1. [Choropleth Map Instructions/User Stories](https://learn.freecodecamp.org/data-visualization/data-visualization-projects/visualize-data-with-a-choropleth-map)
 
    -[Work so far](https://github.com/jefferylgraham/freeCodeCamp/tree/master/data-visualizations/chloropleth-map)
+
+
+### Day 47: Friday, October 5, 2018
+
+**Today's Progress**: Worked on the freeCodeCamp chloropleth map project.
+
+**Thoughts**: Had to refactor my code to load both json files via Promises. Trying to find out how to map the education data to the county ids. This is hard.
+
+1. [Choropleth Map Instructions/User Stories](https://learn.freecodecamp.org/data-visualization/data-visualization-projects/visualize-data-with-a-choropleth-map)
+
+   -[Work so far](https://github.com/jefferylgraham/freeCodeCamp/tree/master/data-visualizations/chloropleth-map)
