@@ -507,3 +507,27 @@ the project will look like is helpful, especially if building with React. Draw s
 1. [Choropleth Map Instructions/User Stories](https://learn.freecodecamp.org/data-visualization/data-visualization-projects/visualize-data-with-a-choropleth-map)
 
    -[Work so far](https://github.com/jefferylgraham/freeCodeCamp/tree/master/data-visualizations/chloropleth-map)
+
+
+### Day 48: Saturday, October 6, 2018
+
+**Today's Progress**: Finished the freeCodeCamp chloropleth map project. Started the tree map project.
+
+**Thoughts**: It never fails that the challenges get progressively more challenging.
+
+1. [Choropleth Map Instructions/User Stories](https://learn.freecodecamp.org/data-visualization/data-visualization-projects/visualize-data-with-a-choropleth-map)
+
+   -[Solution](https://codepen.io/jefferylgraham/pen/ReGyar)
+
+2. [Tree Map Instructions/User Stories](https://learn.freecodecamp.org/data-visualization/data-visualization-projects/visualize-data-with-a-treemap-diagram)
+
+
+### Day 49: Sunday, October 7, 2018
+
+**Today's Progress**: Worked on the tree map project.
+
+**Thoughts**: Made more progress today. I do better when I work on the project incrementally, instead of making a lot of changes and wondering where things went wrong.
+
+1. [Tree Map Instructions/User Stories](https://learn.freecodecamp.org/data-visualization/data-visualization-projects/visualize-data-with-a-treemap-diagram)
+
+    -[Work so far](https://github.com/jefferylgraham/freeCodeCamp/tree/master/data-visualizations/tree-map)
