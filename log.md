@@ -531,3 +531,14 @@ the project will look like is helpful, especially if building with React. Draw s
 1. [Tree Map Instructions/User Stories](https://learn.freecodecamp.org/data-visualization/data-visualization-projects/visualize-data-with-a-treemap-diagram)
 
     -[Work so far](https://github.com/jefferylgraham/freeCodeCamp/tree/master/data-visualizations/tree-map)
+
+
+### Day 50: Monday, October 8, 2018
+
+**Today's Progress**: Finished the freeCodeCamp tree map project.
+
+**Thoughts**: Feels good to be halfway through the 100 days of code challenge, as well as having another cert under my belt
+
+1. [Tree Map Instructions/User Stories](https://learn.freecodecamp.org/data-visualization/data-visualization-projects/visualize-data-with-a-treemap-diagram)
+
+    -[Solution](https://codepen.io/jefferylgraham/pen/vVyXqg)
