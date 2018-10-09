@@ -542,3 +542,10 @@ the project will look like is helpful, especially if building with React. Draw s
 1. [Tree Map Instructions/User Stories](https://learn.freecodecamp.org/data-visualization/data-visualization-projects/visualize-data-with-a-treemap-diagram)
 
     -[Solution](https://codepen.io/jefferylgraham/pen/vVyXqg)
+
+
+### Day 51: Tuesday, October 9, 2018
+
+**Today's Progress**: Started the freeCodeCamp microservices challenges.
+
+**Thoughts**: Getting some back end work under my belt. My previous experious with Python is coming in handy.
