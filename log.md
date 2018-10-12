@@ -549,3 +549,19 @@ the project will look like is helpful, especially if building with React. Draw s
 **Today's Progress**: Started the freeCodeCamp microservices challenges.
 
 **Thoughts**: Getting some back end work under my belt. My previous experious with Python is coming in handy.
+
+
+### Day 52: Wednesday, October 10, 2018
+
+**Today's Progress**: Continued the freeCodeCamp microservices challenges - express specifically.
+
+**Thoughts**: Getting a better understanding of node.js
+
+
+### Day 53: Thursday, October 11, 2018
+
+**Today's Progress**: Started on the freeCodeCamp microservices challenges - mongoose & mongodb.
+
+**Thoughts**: Hopefully my experience with SQL will help me a little on these challenges. Starting to see the light at the end of the tunnel.
+
+
