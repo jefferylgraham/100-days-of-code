@@ -565,3 +565,10 @@ the project will look like is helpful, especially if building with React. Draw s
 **Thoughts**: Hopefully my experience with SQL will help me a little on these challenges. Starting to see the light at the end of the tunnel.
 
 
+### Day 54: Friday, October 12, 2018
+
+**Today's Progress**: Finished the freeCodeCamp microservices challenges.
+
+**Thoughts**: The mongoose/mongoDb challenges seemed more straightforward than the node challenges. I wonder what that means. Tomorrow I start on the projects. Maybe. Depending on how far I get with the WordPress site. Excited about my first hackathon tomorrow!
+
+
