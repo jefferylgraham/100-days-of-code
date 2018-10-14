@@ -572,3 +572,13 @@ the project will look like is helpful, especially if building with React. Draw s
 **Thoughts**: The mongoose/mongoDb challenges seemed more straightforward than the node challenges. I wonder what that means. Tomorrow I start on the projects. Maybe. Depending on how far I get with the WordPress site. Excited about my first hackathon tomorrow!
 
 
+### Day 55: Saturday, October 13, 2018
+
+**Today's Progress**: Attended my first hackathon today. Have enough contributions to qualify for a free t-shirt!
+
+**Thoughts**: It felt cool hanging around other developers talking about, and working on, code.
+
+-[Hactoberfest Progress](https://hacktoberfest.digitalocean.com/stats/jefferylgraham)
+
+
+
