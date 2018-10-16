@@ -581,4 +581,18 @@ the project will look like is helpful, especially if building with React. Draw s
 -[Hactoberfest Progress](https://hacktoberfest.digitalocean.com/stats/jefferylgraham)
 
 
+### Day 56: Sunday, October 14, 2018
+
+**Today's Progress**: Worked on custom WordPress Development.
+
+**Thoughts**: Getting a database connection error. What sweet fun! NOT!
+
+
+### Day 56: Sunday, October 14, 2018
+
+**Today's Progress**: Worked on custom WordPress Development for a non-profit site.
+
+**Thoughts**: Excited to have my pull request accepted by freeCodeCamp. 
+
+
 
