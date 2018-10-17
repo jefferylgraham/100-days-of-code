@@ -588,11 +588,18 @@ the project will look like is helpful, especially if building with React. Draw s
 **Thoughts**: Getting a database connection error. What sweet fun! NOT!
 
 
-### Day 56: Sunday, October 14, 2018
+### Day 56: Monday, October 15, 2018
 
 **Today's Progress**: Worked on custom WordPress Development for a non-profit site.
 
 **Thoughts**: Excited to have my pull request accepted by freeCodeCamp. 
+
+
+### Day 57: Tuesday, October 16, 2018
+
+**Today's Progress**: Worked on custom WordPress Development for a non-profit site. Also practiced some node.js by watching Alex Zanfir
+
+**Thoughts**: Getting a clearer understanding of npm and the package.json file.
 
 
 
