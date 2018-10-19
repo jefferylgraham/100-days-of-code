@@ -602,11 +602,18 @@ the project will look like is helpful, especially if building with React. Draw s
 **Thoughts**: Getting a clearer understanding of npm and the package.json file.
 
 
-### Day 58: Wednesday, October 78, 2018
+### Day 58: Wednesday, October 17, 2018
 
 **Today's Progress**: Practiced some node.js by watching Alex Zanfir
 
 **Thoughts**: I'm liking the versatily of node js and starting to like the back end a little more.
+
+
+### Day 59: Thursday, October 18, 2018
+
+**Today's Progress**: Practiced some node.js by watching Alex Zanfir
+
+**Thoughts**: Learned how to use the debugger on visual studio. Now I have a extra tools in my toolbelt besides console.log.
 
 
 
