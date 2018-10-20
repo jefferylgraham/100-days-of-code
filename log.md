@@ -616,4 +616,15 @@ the project will look like is helpful, especially if building with React. Draw s
 **Thoughts**: Learned how to use the debugger on visual studio. Now I have a extra tools in my toolbelt besides console.log.
 
 
+### Day 60: Friday, October 19, 2018
+
+**Today's Progress**: Watched videos on Jasmine testing. Started the #freeCodeCamp timestamp microservice project.
+
+**Thoughts**: I'm trying to rush through this project and hitting some mental roadblocks. I need to sit down and think things out before I get to coding, but I'm sure a breakthrough is right around the corner.
+
+1. [Timestamp Microservice Instructions/User Stories](https://learn.freecodecamp.org/apis-and-microservices/apis-and-microservices-projects/timestamp-microservice)
+
+    -[Work so far](https://github.com/jefferylgraham/timestamp-service)
+
+
 
