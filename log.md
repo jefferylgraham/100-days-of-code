@@ -627,4 +627,23 @@ the project will look like is helpful, especially if building with React. Draw s
     -[Work so far](https://github.com/jefferylgraham/timestamp-service)
 
 
+### Day 61: Saturday, October 20, 2018
+
+**Today's Progress**: Worked on a WordPress site for a client.
+
+**Thoughts**: Somebody actually gave me money to work on a website! I used to play around with web stuff in my dorm room on Friday nights! Crazy!
+
+
+### Day 62: Sunday, October 21, 2018
+
+**Today's Progress**: Worked on a WordPress site for a client. Also worked on the freeCodeCamp timestamp service.
+
+**Thoughts**: Feel like I'm turning a corner and feel like a real developer.
+
+1. [Timestamp Microservice Instructions/User Stories](https://learn.freecodecamp.org/apis-and-microservices/apis-and-microservices-projects/timestamp-microservice)
+
+    -[Work so far](https://github.com/jefferylgraham/timestamp-service)
+
+
+
 
