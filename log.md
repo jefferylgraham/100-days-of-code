@@ -9,3 +9,13 @@
 1. [Timestamp Microservice Instructions/User Stories](https://learn.freecodecamp.org/apis-and-microservices/apis-and-microservices-projects/timestamp-microservice)
 
    -[Solution](https://wave-factory.glitch.me/)
+
+### Day 1: Thursday, November 1, 2018
+
+**Today's Progress**: Finished the freeCodeCamp Header Parser Service project
+
+**Thoughts**: I'm on a roll with the node/express projects, which means a curveball is about to be thrown my way. But it feels good to be coding again.
+
+1. [Request Header Parser Microservice Instructions/User Stories](https://learn.freecodecamp.org/apis-and-microservices/apis-and-microservices-projects/request-header-parser-microservice)
+
+   -[Solution](https://broken-door.glitch.me/)
