@@ -31,3 +31,14 @@
 1. [URL Shortener Microservice Instructions/User Stories](https://learn.freecodecamp.org/apis-and-microservices/apis-and-microservices-projects/url-shortener-microservice)
 
    -[Work so far](https://github.com/jefferylgraham/project-url-shortener)
+
+
+### Day 3: Saturday, November 3, 2018
+
+**Today's Progress**: Worked on the freeCodeCamp Url Shortener Service project
+
+**Thoughts**: As always, I got lulled into false sense of security with the first 2 projects. This project is kicking my behind! My hiatus got be back into bad habits, namely coding without thinking things through first. I need to stop that. Immediately!
+
+1. [URL Shortener Microservice Instructions/User Stories](https://learn.freecodecamp.org/apis-and-microservices/apis-and-microservices-projects/url-shortener-microservice)
+
+   -[Work so far](https://github.com/jefferylgraham/project-url-shortener)
