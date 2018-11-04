@@ -10,7 +10,6 @@
 
    -[Solution](https://wave-factory.glitch.me/)
 
-
 ### Day 1: Thursday, November 1, 2018
 
 **Today's Progress**: Finished the freeCodeCamp Header Parser Service project
@@ -20,7 +19,6 @@
 1. [Request Header Parser Microservice Instructions/User Stories](https://learn.freecodecamp.org/apis-and-microservices/apis-and-microservices-projects/request-header-parser-microservice)
 
    -[Solution](https://broken-door.glitch.me/)
-
 
 ### Day 2: Friday, November 2, 2018
 
@@ -32,7 +30,6 @@
 
    -[Work so far](https://github.com/jefferylgraham/project-url-shortener)
 
-
 ### Day 3: Saturday, November 3, 2018
 
 **Today's Progress**: Worked on the freeCodeCamp Url Shortener Service project
@@ -42,3 +39,13 @@
 1. [URL Shortener Microservice Instructions/User Stories](https://learn.freecodecamp.org/apis-and-microservices/apis-and-microservices-projects/url-shortener-microservice)
 
    -[Work so far](https://github.com/jefferylgraham/project-url-shortener)
+
+### Day 4: Sunday, November 4, 2018
+
+**Today's Progress**: Finished the freeCodeCamp Url Shortener Service project
+
+**Thoughts**: I built this! It felt daunting at first. but when I broke eveything step by step and handled eveything step-wise, it felt a little easier. In awe of how far I've come since I first started and excited about where this will take me.
+
+1. [URL Shortener Microservice Instructions/User Stories](https://learn.freecodecamp.org/apis-and-microservices/apis-and-microservices-projects/url-shortener-microservice)
+
+   -[Solution](https://ivory-grade.glitch.me/)
