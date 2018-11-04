@@ -44,7 +44,7 @@
 
 **Today's Progress**: Finished the freeCodeCamp Url Shortener Service project
 
-**Thoughts**: I built this! It felt daunting at first. but when I broke eveything step by step and handled eveything step-wise, it felt a little easier. In awe of how far I've come since I first started and excited about where this will take me.
+**Thoughts**: I built this! It felt daunting at first. but when I broke eveything step by step and handled eveything step-wise, it felt a little easier. In awe of how far I've come since I first started and excited about where this will take me.d 
 
 1. [URL Shortener Microservice Instructions/User Stories](https://learn.freecodecamp.org/apis-and-microservices/apis-and-microservices-projects/url-shortener-microservice)
 
