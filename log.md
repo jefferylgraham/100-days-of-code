@@ -44,8 +44,18 @@
 
 **Today's Progress**: Finished the freeCodeCamp Url Shortener Service project
 
-**Thoughts**: I built this! It felt daunting at first. but when I broke eveything step by step and handled eveything step-wise, it felt a little easier. In awe of how far I've come since I first started and excited about where this will take me.d 
+**Thoughts**: I built this! It felt daunting at first. but when I broke eveything step by step and handled eveything step-wise, it felt a little easier. In awe of how far I've come since I first started and excited about where this will take me.
 
 1. [URL Shortener Microservice Instructions/User Stories](https://learn.freecodecamp.org/apis-and-microservices/apis-and-microservices-projects/url-shortener-microservice)
 
    -[Solution](https://ivory-grade.glitch.me/)
+
+### Day 5: Monday, November 5, 2018
+
+**Today's Progress**: Started the freeCodeCamp Exercise Tracker project
+
+**Thoughts**: Each project brings it's own issues.
+
+1. [Exercise Tracker Instructions/User Stories](https://learn.freecodecamp.org/apis-and-microservices/apis-and-microservices-projects/exercise-tracker)
+
+   -[Work so far](https://github.com/jefferylgraham/project-exercise-tracker)
