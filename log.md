@@ -59,3 +59,13 @@
 1. [Exercise Tracker Instructions/User Stories](https://learn.freecodecamp.org/apis-and-microservices/apis-and-microservices-projects/exercise-tracker)
 
    -[Work so far](https://github.com/jefferylgraham/project-exercise-tracker)
+
+### Day 6: Tuesday, November 6, 2018
+
+**Today's Progress**: Worked on the freeCodeCamp Exercise Tracker project.
+
+**Thoughts**: Spent 30 minutes trying to fix a fatal issue with my git repository after being unable to commit any changes. Finally figured out what to do but still have no idea why the error occured.
+
+1. [Exercise Tracker Instructions/User Stories](https://learn.freecodecamp.org/apis-and-microservices/apis-and-microservices-projects/exercise-tracker)
+
+   -[Work so far](https://github.com/jefferylgraham/project-exercise-tracker)
