@@ -69,3 +69,13 @@
 1. [Exercise Tracker Instructions/User Stories](https://learn.freecodecamp.org/apis-and-microservices/apis-and-microservices-projects/exercise-tracker)
 
    -[Work so far](https://github.com/jefferylgraham/project-exercise-tracker)
+
+### Day 7: Wednesday, November 7, 2018
+
+**Today's Progress**: Worked on the freeCodeCamp Exercise Tracker project.
+
+**Thoughts**: I started coding tonight expecting to finish the project, but several hours later I was only abe to eke out a few lines of code. I spent forever trying to figure out how to use `req.query`. I finally figured it out, but by the time I did, my brain was fried. Hopefully, I'll finish up tomorrow. FInger crossed...
+
+1. [Exercise Tracker Instructions/User Stories](https://learn.freecodecamp.org/apis-and-microservices/apis-and-microservices-projects/exercise-tracker)
+
+   -[Work so far](https://github.com/jefferylgraham/project-exercise-tracker)
