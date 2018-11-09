@@ -79,3 +79,13 @@
 1. [Exercise Tracker Instructions/User Stories](https://learn.freecodecamp.org/apis-and-microservices/apis-and-microservices-projects/exercise-tracker)
 
    -[Work so far](https://github.com/jefferylgraham/project-exercise-tracker)
+
+### Day 8: Thursday, November 8, 2018
+
+**Today's Progress**: Worked on the freeCodeCamp Exercise Tracker project.
+
+**Thoughts**: Made progress on the project. Need to find out how to use the optional parameters in the request query. Has to be a leaner solution than using a bunch of if statements.
+
+1. [Exercise Tracker Instructions/User Stories](https://learn.freecodecamp.org/apis-and-microservices/apis-and-microservices-projects/exercise-tracker)
+
+   -[Work so far](https://github.com/jefferylgraham/project-exercise-tracker)
