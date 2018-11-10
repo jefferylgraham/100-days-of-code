@@ -89,3 +89,13 @@
 1. [Exercise Tracker Instructions/User Stories](https://learn.freecodecamp.org/apis-and-microservices/apis-and-microservices-projects/exercise-tracker)
 
    -[Work so far](https://github.com/jefferylgraham/project-exercise-tracker)
+
+### Day 9: Friday, November 9, 2018
+
+**Today's Progress**: Finished the freeCodeCamp Exercise Tracker project.
+
+**Thoughts**: 4 out of 5 microservice projects completes. Hopefully, I'll finish the last one over the weekend. Node.js, mongoose and mongodb are starting to make sense to me.
+
+1. [Exercise Tracker Instructions/User Stories](https://learn.freecodecamp.org/apis-and-microservices/apis-and-microservices-projects/exercise-tracker)
+
+   -[Solution](https://ribbon-beer.glitch.me/)
