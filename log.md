@@ -94,8 +94,18 @@
 
 **Today's Progress**: Finished the freeCodeCamp Exercise Tracker project.
 
-**Thoughts**: 4 out of 5 microservice projects completes. Hopefully, I'll finish the last one over the weekend. Node.js, mongoose and mongodb are starting to make sense to me.
+**Thoughts**: 4 out of 5 microservice projects completed. Hopefully, I'll finish the last one over the weekend. Node.js, mongoose and MongoDB are starting to make sense to me.
 
 1. [Exercise Tracker Instructions/User Stories](https://learn.freecodecamp.org/apis-and-microservices/apis-and-microservices-projects/exercise-tracker)
 
    -[Solution](https://ribbon-beer.glitch.me/)
+
+### Day 10: Saturday, November 10, 2018
+
+**Today's Progress**: Finished the freeCodeCamp File Metadata project.
+
+**Thoughts**: Another [certification](https://www.freecodecamp.org/certification/jefferylgraham/apis-and-microservices)
+
+1. [File Metadata Instructions/User Stories](https://learn.freecodecamp.org/apis-and-microservices/apis-and-microservices-projects/file-metadata-microservice)
+
+   -[Solution](https://eight-truck.glitch.me/)
