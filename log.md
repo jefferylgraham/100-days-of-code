@@ -98,7 +98,7 @@
 
 1. [Exercise Tracker Instructions/User Stories](https://learn.freecodecamp.org/apis-and-microservices/apis-and-microservices-projects/exercise-tracker)
 
-   -[Solution](https://ribbon-beer.glitch.me/)
+   -[Solution](https://jefferylgraham-exercise-tracker.glitch.me/)
 
 ### Day 10: Saturday, November 10, 2018
 
