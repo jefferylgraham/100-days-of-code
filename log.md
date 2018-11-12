@@ -109,3 +109,11 @@
 1. [File Metadata Instructions/User Stories](https://learn.freecodecamp.org/apis-and-microservices/apis-and-microservices-projects/file-metadata-microservice)
 
    -[Solution](https://eight-truck.glitch.me/)
+
+### Day 11: Sunday, November 11, 2018
+
+**Today's Progress**: Worked on unit testing with chai & mocha. Update my portfolio with recent projects.
+
+**Thoughts**: Didn't experience too much difficulty with testing. Just have to remember the syntax.
+
+1. [Portfolio](https://jefferylgraham.github.io/)
