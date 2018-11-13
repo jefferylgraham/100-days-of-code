@@ -117,3 +117,11 @@
 **Thoughts**: Didn't experience too much difficulty with testing. Just have to remember the syntax.
 
 1. [Portfolio](https://jefferylgraham.github.io/)
+
+### Day 12: Monday, November 12, 2018
+
+**Today's Progress**: Worked on advanced node & express challenges on freeCodeCamp
+
+**Thoughts**: Spent 30 minutes trying to figure out an error I was getting. I got the code directtly from the challenge, but couldn't figure out why it wasn't working. Finally, figured out it was bc the version of MongoDb I was using used slightly different syntax than the exercise examples. Just a small reminder of how web development is constantly evolving and it pays to be a problem solver.
+
+
