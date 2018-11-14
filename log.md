@@ -124,4 +124,10 @@
 
 **Thoughts**: Spent 30 minutes trying to figure out an error I was getting. I got the code directtly from the challenge, but couldn't figure out why it wasn't working. Finally, figured out it was bc the version of MongoDb I was using used slightly different syntax than the exercise examples. Just a small reminder of how web development is constantly evolving and it pays to be a problem solver.
 
+### Day 13: Tuesday, November 13, 2018
+
+**Today's Progress**: Worked on advanced node & express challenges on freeCodeCamp
+
+**Thoughts**: So some of the tests on a challenge are failing, but the functionality of what the app is supposed to do is there. A google search shows that others have faced similar issues with this challenge and have offered that there is something wrong w/ the testing suite. Question is, do I trust that I've done everything correctly and move on or do I trust the tests and work to pass them even though it looks like everything is working? Dilemmas!
+
 
