@@ -126,8 +126,13 @@
 
 ### Day 13: Tuesday, November 13, 2018
 
-**Today's Progress**: Worked on advanced node & express challenges on freeCodeCamp
+**Today's Progress**: Worked on advanced node & express challenges on freeCodeCamp.
 
 **Thoughts**: So some of the tests on a challenge are failing, but the functionality of what the app is supposed to do is there. A google search shows that others have faced similar issues with this challenge and have offered that there is something wrong w/ the testing suite. Question is, do I trust that I've done everything correctly and move on or do I trust the tests and work to pass them even though it looks like everything is working? Dilemmas!
 
+### Day 14: Wednesday, November 14, 2018
+
+**Today's Progress**: Worked on more advanced node & express challenges on freeCodeCamp.
+
+**Thoughts**: Back-end is mutha! But I like it!
 
