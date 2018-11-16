@@ -136,3 +136,9 @@
 
 **Thoughts**: Back-end is mutha! But I like it!
 
+### Day 15: Thursday, November 15, 2018
+
+**Today's Progress**: Started the #freecodecamp Metric-Imperial Converter project. Added the security requirements and implemented the first set of tests.
+
+**Thoughts**: I got that initial sense of "how the hell am I going to do this", that I used to get when I first started coding, when I first looked at the project requirements. However, immediately my next thought was, "it'll be challenging, but I can do it. And I'll learn alot along the way. I got this." 
+
