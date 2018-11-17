@@ -142,3 +142,9 @@
 
 **Thoughts**: I got that initial sense of "how the hell am I going to do this", that I used to get when I first started coding, when I first looked at the project requirements. However, immediately my next thought was, "it'll be challenging, but I can do it. And I'll learn alot along the way. I got this." 
 
+### Day 16: Thursday, November 16, 2018
+
+**Today's Progress**: Worked on the #freecodecamp Metric-Imperial Converter project and implemented some more of tests.
+
+**Thoughts**: It's interesting when you get a boilerplate of code with "suggestions/hints" of how to go about a solution. Getting comfortbale enough with my skills to abandon the "suggested route" and do my own thing.
+
