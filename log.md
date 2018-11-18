@@ -148,3 +148,13 @@
 
 **Thoughts**: It's interesting when you get a boilerplate of code with "suggestions/hints" of how to go about a solution. Getting comfortbale enough with my skills to abandon the "suggested route" and do my own thing.
 
+### Day 17: Thursday, November 17, 2018
+
+**Today's Progress**: Worked on the #freecodecamp Metric-Imperial Converter project and completed all of the unit test. Now on to the functional tests.
+
+**Thoughts**: Haven't been able to focus as much so it's slow going, but I'm making progress. And learning.
+
+1. [Metric-Imperial Converter Instructions/User Stories](https://learn.freecodecamp.org/information-security-and-quality-assurance/information-security-and-quality-assurance-projects/metric-imperial-converter)
+
+   -[Work so fat](https://github.com/jefferylgraham/Metric-Imperial-Converter)
+
