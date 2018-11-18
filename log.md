@@ -156,5 +156,5 @@
 
 1. [Metric-Imperial Converter Instructions/User Stories](https://learn.freecodecamp.org/information-security-and-quality-assurance/information-security-and-quality-assurance-projects/metric-imperial-converter)
 
-   -[Work so fat](https://github.com/jefferylgraham/Metric-Imperial-Converter)
+   -[Work so far](https://github.com/jefferylgraham/Metric-Imperial-Converter)
 
