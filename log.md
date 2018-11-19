@@ -142,13 +142,13 @@
 
 **Thoughts**: I got that initial sense of "how the hell am I going to do this", that I used to get when I first started coding, when I first looked at the project requirements. However, immediately my next thought was, "it'll be challenging, but I can do it. And I'll learn alot along the way. I got this." 
 
-### Day 16: Thursday, November 16, 2018
+### Day 16: Friday, November 16, 2018
 
 **Today's Progress**: Worked on the #freecodecamp Metric-Imperial Converter project and implemented some more of tests.
 
 **Thoughts**: It's interesting when you get a boilerplate of code with "suggestions/hints" of how to go about a solution. Getting comfortbale enough with my skills to abandon the "suggested route" and do my own thing.
 
-### Day 17: Thursday, November 17, 2018
+### Day 17: Saturday, November 17, 2018
 
 **Today's Progress**: Worked on the #freecodecamp Metric-Imperial Converter project and completed all of the unit test. Now on to the functional tests.
 
@@ -157,4 +157,14 @@
 1. [Metric-Imperial Converter Instructions/User Stories](https://learn.freecodecamp.org/information-security-and-quality-assurance/information-security-and-quality-assurance-projects/metric-imperial-converter)
 
    -[Work so far](https://github.com/jefferylgraham/Metric-Imperial-Converter)
+
+### Day 18: Sunday, November 18, 2018
+
+**Today's Progress**: Updated my portfolio
+
+**Thoughts**: Getting more comfortable exposing/sharing my work with others.
+
+1. [Portfolio](https://jefferylgraham.github.io/)
+
+ 
 
