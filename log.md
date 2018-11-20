@@ -140,7 +140,7 @@
 
 **Today's Progress**: Started the #freecodecamp Metric-Imperial Converter project. Added the security requirements and implemented the first set of tests.
 
-**Thoughts**: I got that initial sense of "how the hell am I going to do this", that I used to get when I first started coding, when I first looked at the project requirements. However, immediately my next thought was, "it'll be challenging, but I can do it. And I'll learn alot along the way. I got this." 
+**Thoughts**: I got that initial sense of "how the hell am I going to do this", that I used to get when I first started coding, when I first looked at the project requirements. However, immediately my next thought was, "it'll be challenging, but I can do it. And I'll learn alot along the way. I got this."
 
 ### Day 16: Friday, November 16, 2018
 
@@ -166,5 +166,12 @@
 
 1. [Portfolio](https://jefferylgraham.github.io/)
 
- 
+### Day 19: Monday, November 19, 2018
 
+**Today's Progress**: Finished the freecodecamp Metric-Imperial Converter project
+
+**Thoughts**: Spent over an hour trying to fix an error due to a missing "/" in the route. SMH! But I eventually figured it out.
+
+1. [Metric-Imperial Converter Instructions/User Stories](https://learn.freecodecamp.org/information-security-and-quality-assurance/information-security-and-quality-assurance-projects/metric-imperial-converter)
+
+   -[Solution](https://github.com/jefferylgraham/Metric-Imperial-Converter)
