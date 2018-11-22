@@ -174,4 +174,22 @@
 
 1. [Metric-Imperial Converter Instructions/User Stories](https://learn.freecodecamp.org/information-security-and-quality-assurance/information-security-and-quality-assurance-projects/metric-imperial-converter)
 
-   -[Solution](https://github.com/jefferylgraham/Metric-Imperial-Converter)
+   -[Solution](https://jeffgraham-metric-imperial-converter.glitch.me/)
+
+### Day 20: Tuesday, November 20, 2018
+
+**Today's Progress**: Started the freecodecamp Issue Tracker project
+
+**Thoughts**: Looked at the all the stuff I had to do to implement the project and fely overwhelmed. Looked at the first requirement and thought to myself "I can figure that out". Looked at the 2nd requirement and thought, "I can figure that out". Get the picture?
+
+1. [Issue Tracker Instructions/User Stories](https://learn.freecodecamp.org/information-security-and-quality-assurance/information-security-and-quality-assurance-projects/issue-tracker)
+
+   -[Work so far](https://github.com/jefferylgraham/issue-tracker)
+
+**Today's Progress**: Continued work on the freecodecamp Issue Tracker project
+
+**Thoughts**: Took me a while to get some momentum but I was able to get implement 3 tests. Slow going, but it's going.
+
+1. [Issue Tracker Instructions/User Stories](https://learn.freecodecamp.org/information-security-and-quality-assurance/information-security-and-quality-assurance-projects/issue-tracker)
+
+   -[Work so far](https://github.com/jefferylgraham/issue-tracker)
