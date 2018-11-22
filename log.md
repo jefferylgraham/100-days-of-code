@@ -186,6 +186,8 @@
 
    -[Work so far](https://github.com/jefferylgraham/issue-tracker)
 
+###Day 21: Wednesday, November 21, 2018
+
 **Today's Progress**: Continued work on the freecodecamp Issue Tracker project
 
 **Thoughts**: Took me a while to get some momentum but I was able to get implement 3 tests. Slow going, but it's going.
