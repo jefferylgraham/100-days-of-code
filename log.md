@@ -195,3 +195,13 @@
 1. [Issue Tracker Instructions/User Stories](https://learn.freecodecamp.org/information-security-and-quality-assurance/information-security-and-quality-assurance-projects/issue-tracker)
 
    -[Work so far](https://github.com/jefferylgraham/issue-tracker)
+
+###Day 23: Friday, November 23, 2018
+
+**Today's Progress**: Continued work on the freecodecamp Issue Tracker project
+
+**Thoughts**: Took me a few days to figure out how to use mongodb without mongoose, bur I finally figured it out. The back-end is stressful, but I feel like if I can figure this out, I can figure out anything. And I'm sure I will.
+
+1. [Issue Tracker Instructions/User Stories](https://learn.freecodecamp.org/information-security-and-quality-assurance/information-security-and-quality-assurance-projects/issue-tracker)
+
+   -[Work so far](https://github.com/jefferylgraham/issue-tracker)
