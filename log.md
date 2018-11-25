@@ -205,3 +205,13 @@
 1. [Issue Tracker Instructions/User Stories](https://learn.freecodecamp.org/information-security-and-quality-assurance/information-security-and-quality-assurance-projects/issue-tracker)
 
    -[Work so far](https://github.com/jefferylgraham/issue-tracker)
+
+###Day 24: Saturday, November 24, 2018
+
+**Today's Progress**: Continued work on the freecodecamp Issue Tracker project
+
+**Thoughts**: Worked on updating the db based on form input. I'll work on the tests tomorrow. I haven't been as focused the last couple of days. Need to get my coding mojo back.
+
+1. [Issue Tracker Instructions/User Stories](https://learn.freecodecamp.org/information-security-and-quality-assurance/information-security-and-quality-assurance-projects/issue-tracker)
+
+   -[Work so far](https://github.com/jefferylgraham/issue-tracker)
