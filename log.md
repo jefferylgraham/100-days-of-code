@@ -215,3 +215,13 @@
 1. [Issue Tracker Instructions/User Stories](https://learn.freecodecamp.org/information-security-and-quality-assurance/information-security-and-quality-assurance-projects/issue-tracker)
 
    -[Work so far](https://github.com/jefferylgraham/issue-tracker)
+
+###Day 25: Sunday, November 25, 2018
+
+**Today's Progress**: Finished the freecodecamp Issue Tracker project
+
+**Thoughts**: After having a hard time all week focusing on coding, I finally got my coding mojo back. However,it still took me all day to finish as I jammed some fingers playing football which hampered my ability to type (and I wasn't a good typer to begin with) 
+
+1. [Issue Tracker Instructions/User Stories](https://learn.freecodecamp.org/information-security-and-quality-assurance/information-security-and-quality-assurance-projects/issue-tracker)
+
+   -[Solution](https://jeffgraham-issue-tracker.glitch.me/)
