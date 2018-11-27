@@ -225,3 +225,13 @@
 1. [Issue Tracker Instructions/User Stories](https://learn.freecodecamp.org/information-security-and-quality-assurance/information-security-and-quality-assurance-projects/issue-tracker)
 
    -[Solution](https://jeffgraham-issue-tracker.glitch.me/)
+
+###Day 26: Monday, November 26, 2018
+
+**Today's Progress**: Started the freecodecamp Personal Library project
+
+**Thoughts**: Was making good progress with the project and then I hit a wall. But I should be able to finish tomorrow.
+
+1. [Personal Library Instructions/User Stories](https://learn.freecodecamp.org/information-security-and-quality-assurance/information-security-and-quality-assurance-projects/personal-library)
+
+   -[Work so far](https://github.com/jefferylgraham/Personal-Library)
