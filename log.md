@@ -235,3 +235,13 @@
 1. [Personal Library Instructions/User Stories](https://learn.freecodecamp.org/information-security-and-quality-assurance/information-security-and-quality-assurance-projects/personal-library)
 
    -[Work so far](https://github.com/jefferylgraham/Personal-Library)
+
+###Day 27: Tuesday, November 27, 2018
+
+**Today's Progress**: Finished the freecodecamp Personal Library project
+
+**Thoughts**: It's funny how an issue that was driving me crazy last night was easily solved after getting a good night's rest.
+
+1. [Personal Library Instructions/User Stories](https://learn.freecodecamp.org/information-security-and-quality-assurance/information-security-and-quality-assurance-projects/personal-library)
+
+   -[Solution](https://jeffgraham-personal-library.glitch.me)
