@@ -220,7 +220,7 @@
 
 **Today's Progress**: Finished the freecodecamp Issue Tracker project
 
-**Thoughts**: After having a hard time all week focusing on coding, I finally got my coding mojo back. However,it still took me all day to finish as I jammed some fingers playing football which hampered my ability to type (and I wasn't a good typer to begin with) 
+**Thoughts**: After having a hard time all week focusing on coding, I finally got my coding mojo back. However,it still took me all day to finish as I jammed some fingers playing football which hampered my ability to type (and I wasn't a good typer to begin with)
 
 1. [Issue Tracker Instructions/User Stories](https://learn.freecodecamp.org/information-security-and-quality-assurance/information-security-and-quality-assurance-projects/issue-tracker)
 
@@ -245,3 +245,29 @@
 1. [Personal Library Instructions/User Stories](https://learn.freecodecamp.org/information-security-and-quality-assurance/information-security-and-quality-assurance-projects/personal-library)
 
    -[Solution](https://jeffgraham-personal-library.glitch.me)
+
+###Day 28: Wednesday, November 28, 2018
+
+**Today's Progress**: Started the freecodecamp stock checkeer project
+
+**Thoughts**: Spent an hour trying to figure out an error caused by using 'Db' instead of 'DB'. SMH...
+
+1. [Personal Library Instructions/User Stories](https://learn.freecodecamp.org/information-security-and-quality-assurance/information-security-and-quality-assurance-projects/stock-price-checker)
+
+   -[Work so far](https://github.com/jefferylgraham/nasdaq-stock-price-checker)
+
+###Day 29: Thursday, November 29, 2018
+
+**Today's Progress**: Worked on WordPress development for a client project.
+
+**Thoughts**: I keep thinking about jumping more in-depth to WP developemnt, but I really want to finish the freeCodeCamp curriculum first.
+
+###Day 30: Friday, November 30, 2018
+
+**Today's Progress**: Worked on the freecodecamp stock checker project.
+
+**Thoughts**: Need to find a good financial API to get stock prices.
+
+1. [Personal Library Instructions/User Stories](https://learn.freecodecamp.org/information-security-and-quality-assurance/information-security-and-quality-assurance-projects/stock-price-checker)
+
+   -[Work so far](https://github.com/jefferylgraham/nasdaq-stock-price-checker)
