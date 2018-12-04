@@ -271,3 +271,27 @@
 1. [Personal Library Instructions/User Stories](https://learn.freecodecamp.org/information-security-and-quality-assurance/information-security-and-quality-assurance-projects/stock-price-checker)
 
    -[Work so far](https://github.com/jefferylgraham/nasdaq-stock-price-checker)
+
+###Day 31: Saturday, December 1, 2018
+
+**Today's Progress**: Worked on the freecodecamp stock checker project.
+
+**Thoughts**: Making slow progress.
+
+1. [Personal Library Instructions/User Stories](https://learn.freecodecamp.org/information-security-and-quality-assurance/information-security-and-quality-assurance-projects/stock-price-checker)
+
+   -[Work so far](https://github.com/jefferylgraham/nasdaq-stock-price-checker)
+
+###Day 32: Sunday, December 2, 2018
+
+**Today's Progress**: Worked on custom WordPress development for a client project.
+
+**Thoughts**: Getting better at WordPress development.
+
+###Day 33: Monday, December 3, 2018
+
+**Today's Progress**: Worked on custom WordPress development for a client project.
+
+**Thoughts**: Been working on a software error all friggin' day. Time for a new laptop/pc.
+
+
