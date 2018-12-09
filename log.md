@@ -294,4 +294,34 @@
 
 **Thoughts**: Been working on a software error all friggin' day. Time for a new laptop/pc.
 
+###Day 34: Tuesday, December 4, 2018
+
+**Today's Progress**: Worked on custom WordPress development for a client project.
+
+**Thoughts**: The new laptop is making my life way more easier. Getting things done quicker. And figuring out a good workflow for web design.
+
+###Day 35: Wednesday, December 5, 2018
+
+**Today's Progress**: Worked on custom WordPress development for a client project.
+
+**Thoughts**: Made significant progress on the client project. Need to level up my WP development skills and learn PHP.
+
+###Day 36: Thursday, December 6, 2018
+
+**Today's Progress**: Finished up the draft for the client project.
+
+**Thoughts**: Client was happy with the draft. I'm starting to realize that I can really do this, e.g. web devlopment.
+
+###Day 37: Friday, December 7, 2018
+
+**Today's Progress**: Drafted up another demo for another client project.
+
+**Thoughts**: Once again the client was happy with the draft. Need to bring up pricing to continue project.
+
+###Day 38: Saturday, December 8, 2018
+
+**Today's Progress**: Looked at the some node.js tutorials since it's been a week since I've done any node.
+
+**Thoughts**: It felt good to get back to JS. I need to finish up the freeCodeCamp curriculum so that I can move onto WordPress/PHP development.
+
 
